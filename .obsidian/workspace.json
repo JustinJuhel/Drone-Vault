@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78105e82c417db99",
+        "id": "f38d6d3dc4b11435",
         "type": "tabs",
         "children": [
           {
-            "id": "f04893a0d429e710",
+            "id": "b30bf468cdc13100",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RemoteController/suivi projet/Suivi de projet - télécommande.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Suivi de projet - télécommande"
             }
           }
         ]
@@ -84,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "right": {
     "id": "83e8a5dab40e8b2b",
@@ -216,35 +220,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f04893a0d429e710",
+  "active": "b30bf468cdc13100",
   "lastOpenFiles": [
-    "commit-default.sh",
-    "UDEV Rules.md",
-    "Suivi de projet - télécommande.md",
-    "Signal Stabilization.md",
-    "Screen Wiring.md",
-    "Rotary Encoder Wiring.md",
-    "RC Firmware Architecture.md",
-    "RC - Liste de course.md",
-    "Protocols - I2C, SPI, UART.md",
-    "MCU.md",
-    "Mapping des GPIO STM32.md",
-    "Mapping des GPIO ESP32.md",
+    "RemoteController/suivi projet/Etape 0 - Cadrage.md",
+    "RemoteController/Architecture RemoteController.md",
     "IMU.md",
+    "MCU.md",
+    "RemoteController/hardware",
+    "RemoteController",
+    "Untitled.md",
+    "RemoteController/suivi projet",
+    "UDEV Rules.md",
+    "Drone.md",
+    "commit-default.sh",
+    "RemoteController/suivi projet/Suivi de projet - télécommande.md",
+    "Signal Stabilization.md",
+    "RemoteController/hardware/Screen Wiring.md",
+    "RemoteController/hardware/Rotary Encoder Wiring.md",
+    "RC Firmware Architecture.md",
+    "RemoteController/suivi projet/RC - Liste de course.md",
+    "Protocols - I2C, SPI, UART.md",
+    "RemoteController/hardware/Mapping des GPIO STM32.md",
+    "RemoteController/hardware/Mapping des GPIO ESP32.md",
     "Bridge RC-LiftOff.md",
-    "Branchement des Joysticks Gimbals sur l'ESP32.md",
-    "Arm-disarm Switch Wiring.md",
+    "RemoteController/hardware/Branchement des Joysticks Gimbals sur l'ESP32.md",
+    "RemoteController/hardware/Arm-disarm Switch Wiring.md",
     "Arm-Disarm Switch Test Bench.md",
-    "time-tracker.md",
-    "steps/Etape 0 - Cadrage.md",
+    "RemoteController/suivi projet/time-tracker.md",
     "steps",
     "Scope V1.md",
-    "Drone.md",
-    "Choix du Hardware.md",
-    "Architecture Système rapide - télécommande.md",
+    "RemoteController/suivi projet/Choix du Hardware.md",
     "README.md",
     "templates/default.md",
-    "templates/Yearly Note Template.md",
     "templates"
   ]
 }

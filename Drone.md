@@ -55,7 +55,7 @@ Objectif : éviter un projet flou
 - [x] Scope V1 ✅ 2025-12-27
 - [x] Contraintes chiffrées ✅ 2025-12-27
 - [x] From scratch vs off-the-shelf ✅ 2025-12-27
-- [ ] [[Architecture Système rapide - télécommande]]
+- [ ] [[Architecture RemoteController]]
 - [ ] Choix du hardware
 ### [[Etape 1 - Comprendre le drone (sans voler)]]
 Objectif : comprendre la physique et le contrôle, sans faire du FPV

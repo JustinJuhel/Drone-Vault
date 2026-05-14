@@ -49,7 +49,7 @@ Exemple :
 | RC protocole   | From scratch     |
 | FPV vidéo      | Off-the-shelf    |
 | ESC moteurs    | Off-the-shelf    |
-### [[Architecture Système rapide - télécommande]]
+### [[Architecture RemoteController]]
 - [x] architecture système rapide 📅 2026-01-02 ✅ 2026-01-27
 Diagramme bloc système -> fige les interfaces.
 ### [[Choix du Hardware]]
