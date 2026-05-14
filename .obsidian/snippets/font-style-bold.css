@@ -1,0 +1,65 @@
+/* ================= VARIABLES ================= */
+:root {
+    --color-bold: #FFB4AB;     /* Rouge pour le texte en gras */
+    --color-italic: #A1CED8;   /* Bleu pour le texte en italique */
+    --color-bold-italic: #9AD4A1; /* Violet pour le texte en gras + italique */
+    --color-inline-code: #FFD8A8;   /* Jaune orangé pour le code inline */
+}
+
+/* ----------------- MODE PREVIEW ----------------- */
+/* Texte en gras (bold) */
+.markdown-preview-view strong {
+    color: var(--color-bold);
+    font-weight: bold;
+}
+
+/* Texte en italique */
+.markdown-preview-view em {
+    color: var(--color-italic);
+    font-style: italic;
+}
+
+/* Texte en gras + italique */
+.markdown-preview-view strong em,
+.markdown-preview-view em strong {
+    color: var(--color-bold-italic);
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Code inline */
+.markdown-preview-view code {
+    color: var(--color-inline-code);
+    background-color: transparent; /* conserve le fond transparent si tu veux */
+    font-family: monospace;
+}
+
+/* ----------------- MODE EDITION ----------------- */
+/* Texte en gras (bold) */
+.cm-s-obsidian span.cm-formatting.cm-formatting-bold,
+.cm-s-obsidian span.cm-strong {
+    color: var(--color-bold);
+    font-weight: bold;
+}
+
+/* Texte en italique */
+.cm-s-obsidian span.cm-formatting.cm-formatting-italic,
+.cm-s-obsidian span.cm-em {
+    color: var(--color-italic);
+    font-style: italic;
+}
+
+/* Texte en gras + italique */
+.cm-s-obsidian span.cm-formatting.cm-formatting-bold.cm-formatting-italic,
+.cm-s-obsidian span.cm-strong.cm-em {
+    color: var(--color-bold-italic);
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Code inline */
+.cm-s-obsidian span.cm-inline-code {
+    color: var(--color-inline-code);
+    background-color: transparent; /* conserve le fond transparent si tu veux */
+    font-family: monospace;
+}

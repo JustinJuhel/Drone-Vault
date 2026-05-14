@@ -1,0 +1,9 @@
+{
+  "accentColor": "#9ad4a1",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "font-style-bold",
+    "obsidian-background"
+  ]
+}
