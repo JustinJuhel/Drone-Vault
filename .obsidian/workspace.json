@@ -178,8 +178,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -191,9 +191,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "bbc85ab031fea1fe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -211,7 +221,6 @@
       "bases:Create new base": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -220,7 +229,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b30bf468cdc13100",
+  "active": "9e90b4d59d3d092f",
   "lastOpenFiles": [
     "RemoteController/suivi projet/Etape 0 - Cadrage.md",
     "RemoteController/Architecture RemoteController.md",
