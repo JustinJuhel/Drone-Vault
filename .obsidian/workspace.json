@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f38d6d3dc4b11435",
+        "id": "4d50a0f50bb9be73",
         "type": "tabs",
         "children": [
           {
-            "id": "b30bf468cdc13100",
+            "id": "70b7b3043e8205ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Suivi de projet - télécommande"
             }
+          },
+          {
+            "id": "9291e12107308933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Switch & Rotary encoder Soldering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Switch & Rotary encoder Soldering"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,6 +91,16 @@
           },
           {
             "id": "2851a0cd22c1c9ef",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "e0bad6e843f8ade9",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -188,12 +213,32 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
             "id": "bbc85ab031fea1fe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a612c5b515db3f19",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "25d24e1a2e260ae1",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -203,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -229,24 +274,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9e90b4d59d3d092f",
+  "active": "9291e12107308933",
   "lastOpenFiles": [
+    "Pasted image 20260531191456.jpg",
+    "Switch & Rotary encoder Soldering.md",
+    "RemoteController/suivi projet/Suivi de projet - télécommande.md",
+    "RC Firmware Architecture.md",
+    "Signal Stabilization.md",
     "RemoteController/suivi projet/Etape 0 - Cadrage.md",
     "RemoteController/Architecture RemoteController.md",
     "IMU.md",
     "MCU.md",
     "RemoteController/hardware",
     "RemoteController",
-    "Untitled.md",
     "RemoteController/suivi projet",
     "UDEV Rules.md",
     "Drone.md",
     "commit-default.sh",
-    "RemoteController/suivi projet/Suivi de projet - télécommande.md",
-    "Signal Stabilization.md",
     "RemoteController/hardware/Screen Wiring.md",
     "RemoteController/hardware/Rotary Encoder Wiring.md",
-    "RC Firmware Architecture.md",
     "RemoteController/suivi projet/RC - Liste de course.md",
     "Protocols - I2C, SPI, UART.md",
     "RemoteController/hardware/Mapping des GPIO STM32.md",
