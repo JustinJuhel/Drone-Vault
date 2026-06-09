@@ -6,3 +6,6 @@ For the [[Rotary Encoder Wiring|rotary encoder]] we want [this kind of setup](ht
 ![[Pasted image 20260531191456.jpg|416]]
 
 Follow [this page](https://electronics.stackexchange.com/questions/254222/soldering-iron-melting-plastic-switch) to have more information about how to solder the switches and rotary encoders without melting the plastic.
+
+
+Soldering temperature 300-325°C

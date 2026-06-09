@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d50a0f50bb9be73",
+        "id": "f38d6d3dc4b11435",
         "type": "tabs",
         "children": [
           {
-            "id": "70b7b3043e8205ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RemoteController/suivi projet/Suivi de projet - télécommande.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Suivi de projet - télécommande"
-            }
-          },
-          {
-            "id": "9291e12107308933",
+            "id": "b30bf468cdc13100",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Switch & Rotary encoder Soldering"
+            }
+          },
+          {
+            "id": "898ad64359821561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RemoteController/suivi projet/RC - Liste de course.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RC - Liste de course"
             }
           }
         ],
@@ -98,18 +98,9 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
-          },
-          {
-            "id": "e0bad6e843f8ade9",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -213,8 +204,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -228,7 +219,7 @@
             }
           },
           {
-            "id": "a612c5b515db3f19",
+            "id": "939ad9c446efbf9e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -238,7 +229,17 @@
             }
           },
           {
-            "id": "25d24e1a2e260ae1",
+            "id": "41b03b763dd7bc41",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "cdd42a58b782e98c",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -248,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -274,33 +275,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9291e12107308933",
+  "active": "898ad64359821561",
   "lastOpenFiles": [
-    "Pasted image 20260531191456.jpg",
     "Switch & Rotary encoder Soldering.md",
-    "RemoteController/suivi projet/Suivi de projet - télécommande.md",
+    "RemoteController/suivi projet/RC - Liste de course.md",
     "RC Firmware Architecture.md",
-    "Signal Stabilization.md",
-    "RemoteController/suivi projet/Etape 0 - Cadrage.md",
+    "Pasted image 20260531191456.jpg",
     "RemoteController/Architecture RemoteController.md",
+    "Arm-Disarm Switch Test Bench.md",
+    "RemoteController/suivi projet/Suivi de projet - télécommande.md",
+    "RemoteController/suivi projet/Etape 0 - Cadrage.md",
     "IMU.md",
     "MCU.md",
     "RemoteController/hardware",
     "RemoteController",
+    "Untitled.md",
     "RemoteController/suivi projet",
     "UDEV Rules.md",
     "Drone.md",
     "commit-default.sh",
+    "Signal Stabilization.md",
     "RemoteController/hardware/Screen Wiring.md",
     "RemoteController/hardware/Rotary Encoder Wiring.md",
-    "RemoteController/suivi projet/RC - Liste de course.md",
     "Protocols - I2C, SPI, UART.md",
     "RemoteController/hardware/Mapping des GPIO STM32.md",
     "RemoteController/hardware/Mapping des GPIO ESP32.md",
     "Bridge RC-LiftOff.md",
     "RemoteController/hardware/Branchement des Joysticks Gimbals sur l'ESP32.md",
     "RemoteController/hardware/Arm-disarm Switch Wiring.md",
-    "Arm-Disarm Switch Test Bench.md",
     "RemoteController/suivi projet/time-tracker.md",
     "steps",
     "Scope V1.md",
