@@ -244,12 +244,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a66ec455f853117d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -271,11 +281,10 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "periodic-notes:Open today": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "898ad64359821561",
+  "active": "a66ec455f853117d",
   "lastOpenFiles": [
     "Switch & Rotary encoder Soldering.md",
     "RemoteController/suivi projet/RC - Liste de course.md",
