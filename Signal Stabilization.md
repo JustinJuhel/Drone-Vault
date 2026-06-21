@@ -71,11 +71,6 @@ Solutions to address the ESP32's bad ADC :
 2026-03-11: so I bought an STM32 and op-amp, and 0.1µF capacitors.
 
 **Adding op-amps MCP6002**
-Wiring diagram:
-![[MCP6002.webp|402]]
-Wiring:
+[[Op-Amp wiring diagram]]
 
-| PIN  | 1     | 2         | 3      | 4   | 5      | 6         | 7     | 8   |
-| ---- | ----- | --------- | ------ | --- | ------ | --------- | ----- | --- |
-| WIRE | STM32 | MCP PIN 1 | Gimbal | GND | Gimbal | MCP PIN 7 | STM32 | 3V3 |
 [[Mapping des GPIO STM32]]
