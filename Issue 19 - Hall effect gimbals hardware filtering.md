@@ -24,3 +24,4 @@ Comme je n'ai que 330R et 47R, je peux tester $R_1 = 3 \times 47R$ et $R_2 = 2 \
 Si ça fonctionne, je commande un set de résistances d'au moins $1 k\Omega$.
 
 Je vois une modification sur l'axe amplifié : la valeur passe à 2179 mais ne change pas quand je modifie la valeur de throttle.
+Cela correspond environ à la moitié entre 0 et 4095.
