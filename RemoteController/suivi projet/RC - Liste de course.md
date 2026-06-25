@@ -27,3 +27,6 @@ journal-start-date: 2026-03-17
 2026-06-21
 - [x] [resistors](https://fr.aliexpress.com/item/1005006706508149.html?spm=a2g0o.productlist.main.21.2de97cfco5byED&utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best%7Cx_object_id%3A1005006706508149%7C_p_origin_prod%3A&algo_pvid=bc4f9be1-cfe2-4280-ab79-04aa8799cb48&pdp_ext_f=%7B%22order%22%3A%228282%22%2C%22spu_best_type%22%3A%22price%22%2C%22fromPage%22%3A%22search%22%7D) ✅ 2026-06-21
 - [x] [câbles durs pour breadboard](https://fr.aliexpress.com/item/1005009166434747.html?spm=a2g0o.productlist.main.52.2f11qheBqheB8b&aem_p4p_detail=20260621081624613552628010450002458050&algo_pvid=8db05545-372e-41f1-b1ce-fb56f40724bd&pdp_ext_f=%7B%22order%22%3A%22105%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009166434747%7C_p_origin_prod%3A&search_p4p_id=20260621081624613552628010450002458050_14) ✅ 2026-06-21
+
+2026-06-25
+- [ ] smaller screen
