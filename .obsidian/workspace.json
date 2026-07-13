@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "24af5450a0869290",
+    "id": "bb12d5d7c6baa478",
     "type": "split",
     "children": [
       {
-        "id": "97380a40f15de4cd",
+        "id": "1bfc29d93873627a",
         "type": "tabs",
         "children": [
           {
-            "id": "30bfcf621d6ab009",
+            "id": "c5f1dc3cf5009460",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,37 +20,22 @@
               "icon": "lucide-file",
               "title": "Issue 19 - Hall effect gimbals hardware filtering"
             }
-          },
-          {
-            "id": "dcd6952364732326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RemoteController/suivi projet/RC - Liste de course.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RC - Liste de course"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "50bcd259f5f628ee",
+    "id": "ce49e3690eb070f5",
     "type": "split",
     "children": [
       {
-        "id": "eb57dd527cb73c01",
+        "id": "d98bc80a740f5fef",
         "type": "tabs",
         "children": [
           {
-            "id": "9e90b4d59d3d092f",
+            "id": "4a6b908a5727036f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +48,12 @@
             }
           },
           {
-            "id": "9b3df5d6c21184d8",
+            "id": "24eddfcda930a00e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "op-amp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "f335eeecc72f616a",
+            "id": "19a951b23c0d941b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,7 +75,7 @@
             }
           },
           {
-            "id": "2851a0cd22c1c9ef",
+            "id": "729c5d3b665cc213",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -103,22 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 222.5
   },
   "right": {
-    "id": "83e8a5dab40e8b2b",
+    "id": "0d0e8c6e938c5f08",
     "type": "split",
     "children": [
       {
-        "id": "fafd4714889de162",
+        "id": "f6806e255818ab3a",
         "type": "tabs",
         "children": [
           {
-            "id": "8f9741baa6833f06",
+            "id": "3daefa1685c32b49",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RemoteController/suivi projet/time-tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,24 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for time-tracker"
             }
           },
           {
-            "id": "d350b17a749d8b75",
+            "id": "f306d264114aefdc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RemoteController/suivi projet/time-tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from time-tracker"
             }
           },
           {
-            "id": "85c96f1d5f7b051e",
+            "id": "527120e1023e8160",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,45 +147,22 @@
             }
           },
           {
-            "id": "9451ec8879735d45",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
-            "id": "80b19768cbbc8380",
+            "id": "55a558e71a3bd109",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "RemoteController/suivi projet/time-tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of time-tracker"
             }
           },
           {
-            "id": "0fbbe91d7cc6d174",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "c54cb465924c0461",
+            "id": "784490a7110890f8",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -208,7 +172,7 @@
             }
           },
           {
-            "id": "bbc85ab031fea1fe",
+            "id": "8e1b7edacf96f2c8",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -218,7 +182,7 @@
             }
           },
           {
-            "id": "939ad9c446efbf9e",
+            "id": "79dbc82aa27c75f8",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -228,7 +192,7 @@
             }
           },
           {
-            "id": "41b03b763dd7bc41",
+            "id": "b27b4c5ee95ac41f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -238,7 +202,7 @@
             }
           },
           {
-            "id": "cdd42a58b782e98c",
+            "id": "1b1ca6c7f925e21e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -248,7 +212,7 @@
             }
           },
           {
-            "id": "a66ec455f853117d",
+            "id": "e82237440594ef57",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -258,37 +222,7 @@
             }
           },
           {
-            "id": "6e478996c397acae",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "a665022001eaf71a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "6b4e1f70b573e16f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "0c66ec787410a239",
+            "id": "012a04f04ea7388d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -298,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -307,12 +241,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "bases:Create new base": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
@@ -324,42 +258,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dcd6952364732326",
+  "active": "c5f1dc3cf5009460",
   "lastOpenFiles": [
-    "Issue 19 - Hall effect gimbals hardware filtering.md",
-    "RemoteController/suivi projet/time-tracker.md",
-    "RemoteController/suivi projet/RC - Liste de course.md",
-    "Design 3D - Onshape.md",
     "Op-Amp wiring diagram.md",
-    "Pasted image 20260621144848.jpg",
-    "Signal Stabilization.md",
-    "RemoteController/suivi projet/Suivi de projet - télécommande.md",
-    "Drone.md",
-    "MCP6002.webp",
-    "Switch & Rotary encoder Soldering.md",
-    "RC Firmware Architecture.md",
-    "Pasted image 20260531191456.jpg",
-    "RemoteController/Architecture RemoteController.md",
-    "Arm-Disarm Switch Test Bench.md",
-    "RemoteController/suivi projet/Etape 0 - Cadrage.md",
-    "IMU.md",
-    "MCU.md",
-    "RemoteController/hardware",
-    "RemoteController",
-    "RemoteController/suivi projet",
-    "UDEV Rules.md",
-    "commit-default.sh",
-    "RemoteController/hardware/Screen Wiring.md",
     "RemoteController/hardware/Rotary Encoder Wiring.md",
-    "Protocols - I2C, SPI, UART.md",
-    "RemoteController/hardware/Mapping des GPIO STM32.md",
-    "RemoteController/hardware/Mapping des GPIO ESP32.md",
-    "Bridge RC-LiftOff.md",
-    "RemoteController/hardware/Branchement des Joysticks Gimbals sur l'ESP32.md",
-    "RemoteController/hardware/Arm-disarm Switch Wiring.md",
-    "steps",
-    "Scope V1.md",
-    "RemoteController/suivi projet/Choix du Hardware.md",
-    "templates"
+    "RemoteController/suivi projet/time-tracker.md"
   ]
 }

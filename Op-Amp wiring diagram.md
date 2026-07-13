@@ -26,3 +26,7 @@ $$
 To meet the $3.3V$, we can try $R_{2} = 10 k\Omega$ and $R_{1} = 2.2 k\Omega$ for a gain of $5.54$.
 
 **Rule :** for general-purpose op-amps, keep your feedback resistors between $1k\Omega$ and $100k\Omega$ to keep current draw negligible.
+
+
+
+https://chatgpt.com/c/6a4e8cf7-dae8-83ed-a78b-cc3f0b52d33c

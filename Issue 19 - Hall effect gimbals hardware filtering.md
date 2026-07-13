@@ -25,3 +25,22 @@ Si ça fonctionne, je commande un set de résistances d'au moins $1 k\Omega$.
 
 Je vois une modification sur l'axe amplifié : la valeur passe à 2179 mais ne change pas quand je modifie la valeur de throttle.
 Cela correspond environ à la moitié entre 0 et 4095.
+
+___
+
+Ce que j'observe maintenant, c'est une variation de seulement 23mV (alors que j'ai une amplitude de lecture de 3.3V). Avec les **AG01 NANO CNC metal gimbals**.
+
+[Recommandations](https://chatgpt.com/c/6a4e8cf7-dae8-83ed-a78b-cc3f0b52d33c) :
+I'd use a **two-stage architecture**, because it gives the best combination of stability and tuning:
+1. **Precision reference at the center voltage** (around 560 mV), generated from a stable reference or DAC.
+2. **Difference amplifier** with a gain of about **60–80**, so the stick uses roughly **0.2 V to 3.1 V** of the ADC range.
+3. Feed that into the STM32 ADC.
+4. In firmware:
+    - calibrate center, min, and max on first power-up (and allow recalibration),
+    - average **8–16 samples**,
+    - apply a small deadband around center,
+    - map to your CRSF or ELRS output,
+    - optionally apply user-selectable expo curves.
+
+This approach avoids the huge output offset you'd get from simply multiplying the absolute 560 mV signal, and it gives you a clean, repeatable center—something that's critical for FPV freestyle.
+
